@@ -1,0 +1,6 @@
+[submodule "basicmodule"]
+	path = basicmodule
+	url = https://github.com/frejonb/MMA-basic-module
+[submodule "spinreptheory"]
+	path = spinreptheory
+	url = https://github.com/frejonb/MMA-Spin-Representation-Theory

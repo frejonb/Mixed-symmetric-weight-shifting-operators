@@ -1,8 +1,8 @@
 (* ::Package:: *)
 
 (* ::Input::Initialization:: *)
-<<basicmodule.m
-<<spinreptheory.m
+Get[NotebookDirectory[]<>"basicmodule/basicmodule.m"];
+Get[NotebookDirectory[]<>"spinreptheory/spinreptheory.m"];
 
 (*Related to Embedding formalism*)
 (*to project to physical space use*)

@@ -1,6 +1,13 @@
 # Mixed-symmetric-weight-shifting-operators
 
+Supplementary files for chapter 3 of the thesis [Spinning conformal blocks and applications](http://hdl.handle.net/11245.1/9a1855cf-7522-4ba3-8b1c-10e2a2c6358c). This allows the computation of seed spinning conformal partial waves for the exchange of an operator with SO(d) symmetry (l_1,l_2,l_3) for l_1 >= l_2 >= l_3 >= 0. 
 
+# Attribution
+If this is helpful in one of your publications, please cite:
+
+F. G. Rejon Barrera, "Spinning conformal blocks and applications".
+
+# License
 
     MIT License
 
